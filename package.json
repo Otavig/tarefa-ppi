@@ -1,0 +1,15 @@
+{
+  "name": "reajuste_salario",
+  "version": "1.0.0",
+  "description": "Back-End para reajustar o salario",
+  "main": "app",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Otávio Garcia dos Santos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
